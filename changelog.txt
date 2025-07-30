@@ -1,5 +1,15 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-
+v0.34.2
+    TP gain now increases the more projectiles you graze.
+    Invincibility, TP to Soul gain, grazing and attack detection revamped.
+    Party members can now take damage (damage is simply the same for all members).
+    Fixed a bug where party members could take damage multiple times if they were hit multiple times in a small window of time.
+v0.33.4
+    Fixed an issue related to TP bar.
+    Fixed a graphical issue occuring when TP reaches MAX.
+    Removed plain soul HP and started implementing features to utilize party member HP rather than the previous soul HP.
+    Started to implement target arg to the initfight() function.
+    Mapped DEBUG tools: "f" to start a fight, "s" to force switch the turn and "a" to initialize any attack.
 v0.32.1
     Opened changelog.
     Implemented saving of the TP for when a given party member finishes their turn; fixes any bug related to cancelling "defend" twice in a row.

@@ -1,4 +1,7 @@
 {
+    "soul":{
+        "grazearea":90
+    },
     "kris": {
         "name": "Kris",
         "basehp": 100,
