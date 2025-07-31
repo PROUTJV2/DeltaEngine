@@ -1,0 +1,8 @@
+SORTED BY ORDER OF PRIORITY (the higher the more important)
+
+Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies.
+Implement ATTACK button.
+Implement ACTing.
+Implement SPAREing and MAGIC.
+Implement ITEM.
+Implement Overworld sprites, camera and movement.
