@@ -6,3 +6,4 @@ Implement ACTing.
 Implement SPAREing and MAGIC.
 Implement ITEM.
 Implement Overworld sprites, camera and movement.
+Implement TP reducing enemy's attack time.
