@@ -12,7 +12,8 @@
         "magicperlevel": 0,
         "idleframes":6,
         "defendframes":6,
-        "id": 1
+        "id": 1,
+        "overlaycolor":100
     },
     "susie": {
         "name": "Susie",
@@ -24,7 +25,8 @@
         "magicperlevel": 4,
         "idleframes":4,
         "defendframes":5,
-        "id": 2
+        "id": 2,
+        "overlaycolor":166.6
     },
     "ralsei": {
         "name": "Ralsei",
@@ -36,6 +38,7 @@
         "magicperlevel": 6,
         "idleframes":5,
         "defendframes":6,
-        "id": 3
+        "id": 3,
+        "overlaycolor":66.6
     }
 }
