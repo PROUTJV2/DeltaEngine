@@ -1,6 +1,6 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
 
-v0.37.2
+v0.37.4
     Reworked the entire structure so that it can now fetch attacks from enemydata.json.
     Implemented battle box closing animation.
     Implemented xdecal, ydecal, dirdecal and other complex factors to enemyattack function.
