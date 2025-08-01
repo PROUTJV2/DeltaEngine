@@ -3,14 +3,14 @@
         "name": "Placeholder",
         "hp": 150,
         "attack": 13,
-        "attackdata": {
-            "placeholder": {
+        "attackdata": [
+            {
+                "name": "placeholder",
                 "class": "projectile",
                 "startx": 150,
                 "starty": 50,
-                "startturn": -90,
+                "startdir": -90,
                 "costumes": [
-                    "laser",
                     "laser"
                 ],
                 "damage": 3,
@@ -19,13 +19,15 @@
                     "ralsei"
                 ],
                 "touchingidentifier": 2,
-                "xdecal":0,
-                "ydecal":0,
-                "duration":10,
-                "delay":0.6,
-                "repeat":5
+                "xdecal": 0,
+                "ydecal": 0,
+                "dirdecal": 0,
+                "duration": 10,
+                "delay": 0.6,
+                "subdelay": 0.2,
+                "repeat": 5
             }
-        },
+        ],
         "id": 1
     }
 }

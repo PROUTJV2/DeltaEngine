@@ -1,15 +1,26 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
+
+v0.37.2
+    Reworked the entire structure so that it can now fetch attacks from enemydata.json.
+    Implemented battle box closing animation.
+    Implemented xdecal, ydecal, dirdecal and other complex factors to enemyattack function.
+    Projectile costumes are now handled in an array to support switching costumes while the attack is ongoing.
+    Implemented "grazearea" in the team data in the "Soul" key.
+    Added some effects to the Soul upon start/end of an attack.
+    Fixed an issue related to a costume animation not finishing if you mashed too fast through the menu.
+    Fixed an issue related to BattleBox.
+    Fixed an issue related to Kris's turn being skipped after the enemy played its turn.
 v0.34.2
     TP gain now increases the more projectiles you graze.
     Invincibility, TP to Soul gain, grazing and attack detection revamped.
     Party members can now take damage (damage is simply the same for all members).
     Fixed a bug where party members could take damage multiple times if they were hit multiple times in a small window of time.
 v0.33.4
-    Fixed an issue related to TP bar.
-    Fixed a graphical issue occuring when TP reaches MAX.
     Removed plain soul HP and started implementing features to utilize party member HP rather than the previous soul HP.
     Started to implement target arg to the initfight() function.
     Mapped DEBUG tools: "f" to start a fight, "s" to force switch the turn and "a" to initialize any attack.
+    Fixed an issue related to TP bar.
+    Fixed a graphical issue occuring when TP reaches MAX.
 v0.32.1
     Opened changelog.
     Implemented saving of the TP for when a given party member finishes their turn; fixes any bug related to cancelling "defend" twice in a row.

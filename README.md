@@ -1,4 +1,4 @@
-Check out "changelog.txt" for numerous changes.
+Check out "changelog.txt" for numerous info about update changes and patches.
 
 
 
