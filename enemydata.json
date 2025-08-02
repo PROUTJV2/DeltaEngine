@@ -6,7 +6,7 @@
         "attackdata": [
             {
                 "name": "placeholder",
-                "upcomingtext":"sigma placeholder attack incoming",
+                "upcomingtext":"you can change this cool%newline text in enemydata.json!!",
                 "class": "projectile",
                 "startx": 150,
                 "starty": 50,
