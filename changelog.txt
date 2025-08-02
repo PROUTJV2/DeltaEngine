@@ -1,5 +1,12 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.40.11
+v0.42.4
+    The game now supports custom text for each incoming attack in "upcoming text" in enemydata.json>enemyname>attackdata>upcomingtext.
+    (v0.41)Implemented custom support for newline character (newline character being %) in "upcomingtext".
+    (v0.42)Improved support for newline character from 2 lines max to infinite lines.
+    Fixed a bug where text would reprint each party member's turn.
+    Fixed a bug where text would stop printing after Kris played its turn.
+    Fixed a bug where text would keep printing in the enemy's turn if you mashed fast enough through the menu layers.
+v0.40.12
     Implementing battle effect with tweened bars around characters.
     UI has been optimized since the UI color is now automatically taken from "overlaycolor" in teamdata.json.
     Increased TP bar tween speed along with the tweened bars tween speed.

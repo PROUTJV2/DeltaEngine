@@ -6,6 +6,7 @@
         "attackdata": [
             {
                 "name": "placeholder",
+                "upcomingtext":"sigma placeholder attack incoming",
                 "class": "projectile",
                 "startx": 150,
                 "starty": 50,
