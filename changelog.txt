@@ -1,5 +1,5 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.42.5
+v0.42.6
     The game now supports custom text for each incoming attack in "upcoming text" in enemydata.json>enemyname>attackdata>upcomingtext.
     (v0.41)Implemented custom support for newline character (newline character being %) in "upcomingtext".
     (v0.42)Improved support for newline character from 2 lines max to infinite lines.
