@@ -4,6 +4,10 @@ v0.39.3
     UI has been optimized since the UI color is now automatically taken from "overlaycolor" in teamdata.json.
     Increased TP bar tween speed along with the tweened bars tween speed.
     Fixed an issue with the remaining tweened bars from the previous party member that played not despawning when the turn switch is done.
+    Fixed an issue related to a costume bug if you mashed through the menus at a 2-frame window.
+    Fixed an issue related to costumes bug with the defend command.
+    Fixed background underlapping.
+    Fixed an oversight with Kris's costume ordering.
 v0.38.2
     Implemented Battle UI text along with the SFX.
     SFX's pitch increases by a bit for each character of text printed out.
