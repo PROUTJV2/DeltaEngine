@@ -6,7 +6,7 @@
         "attackdata": [
             {
                 "name": "placeholder",
-                "upcomingtext":"you can change this cool newline text% in enemydata.json!! you can then press i!",
+                "upcomingtext":"you can change this cool newline text%in enemydata.json!! you can then press i!",
                 "class": "projectile",
                 "startx": 150,
                 "starty": 50,
