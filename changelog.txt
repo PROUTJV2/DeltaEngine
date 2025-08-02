@@ -6,6 +6,7 @@ v0.42.4
     Fixed a bug where text would reprint each party member's turn.
     Fixed a bug where text would stop printing after Kris played its turn.
     Fixed a bug where text would keep printing in the enemy's turn if you mashed fast enough through the menu layers.
+    Fixed a bug where the last character of the "upcoming text" prompt would be voided and not printed.
 v0.40.12
     Implementing battle effect with tweened bars around characters.
     UI has been optimized since the UI color is now automatically taken from "overlaycolor" in teamdata.json.
