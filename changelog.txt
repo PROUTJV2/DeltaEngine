@@ -1,13 +1,18 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.39.3
+v0.39.9
     Implementing battle effect with tweened bars around characters.
     UI has been optimized since the UI color is now automatically taken from "overlaycolor" in teamdata.json.
     Increased TP bar tween speed along with the tweened bars tween speed.
+    Implemented a background with some effects.
+    Implemented a TP effect when TP reaches MAX.
+    Changed the TP background color to red (as in the likes of Deltarune).
+    Changed TP outline to a rectangle shaped outline.
     Fixed an issue with the remaining tweened bars from the previous party member that played not despawning when the turn switch is done.
     Fixed an issue related to a costume bug if you mashed through the menus at a 2-frame window.
     Fixed an issue related to costumes bug with the defend command.
     Fixed background underlapping.
     Fixed an oversight with Kris's costume ordering.
+    Fixed an issue with TP effect bugging when being cancelled.
 v0.38.2
     Implemented Battle UI text along with the SFX.
     SFX's pitch increases by a bit for each character of text printed out.
