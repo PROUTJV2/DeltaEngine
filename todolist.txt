@@ -7,4 +7,5 @@ Implement SPAREing and MAGIC.
 Implement ITEM.
 Implement Overworld sprites, camera and movement.
 Implement TP reducing enemy's attack time.
+Implement musics.
 Implement support for attacks from multiple enemies.
