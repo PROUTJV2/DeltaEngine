@@ -1,5 +1,5 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.40.10
+v0.40.11
     Implementing battle effect with tweened bars around characters.
     UI has been optimized since the UI color is now automatically taken from "overlaycolor" in teamdata.json.
     Increased TP bar tween speed along with the tweened bars tween speed.
@@ -12,6 +12,7 @@ v0.40.10
     Fixed an issue with the remaining tweened bars from the previous party member that played not despawning when the turn switch is done.
     Fixed an issue related to a costume bug if you mashed through the menus at a 2-frame window.
     Fixed an issue related to costumes bug with the defend command.
+    Fixed an issue related to the final party member's turn TP bar not tweening due to enemy's turn starting (it's complicated).
     Fixed background underlapping.
     Fixed an oversight with Kris's costume ordering.
     Fixed an oversight with Susie's costume ordering.
