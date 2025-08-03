@@ -1,6 +1,6 @@
 {
-    "soul":{
-        "grazearea":90
+    "soul": {
+        "grazearea": 90
     },
     "kris": {
         "name": "Kris",
@@ -10,11 +10,13 @@
         "attackperlevel": 30,
         "basemagic": 10,
         "magicperlevel": 0,
-        "idleframes":6,
-        "defendframes":6,
-        "defendduration":0.3,
+        "animation": {
+            "idleframes": 6,
+            "defendframes": 6,
+            "defendduration": 0.3
+        },
         "id": 1,
-        "overlaycolor":100
+        "overlaycolor": 100
     },
     "susie": {
         "name": "Susie",
@@ -24,11 +26,13 @@
         "attackperlevel": 45,
         "basemagic": 12,
         "magicperlevel": 4,
-        "idleframes":4,
-        "defendframes":5,
-        "defendduration":0.3,
+        "animation": {
+            "idleframes": 4,
+            "defendframes": 5,
+            "defendduration": 0.3
+        },
         "id": 2,
-        "overlaycolor":166.6
+        "overlaycolor": 166.6
     },
     "ralsei": {
         "name": "Ralsei",
@@ -38,10 +42,12 @@
         "attackperlevel": 20,
         "basemagic": 15,
         "magicperlevel": 6,
-        "idleframes":5,
-        "defendframes":6,
-        "defendduration":0.3,
+        "animation": {
+            "idleframes": 5,
+            "defendframes": 6,
+            "defendduration": 0.9
+        },
         "id": 3,
-        "overlaycolor":66.6
+        "overlaycolor": 66.6
     }
 }
