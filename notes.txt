@@ -1,0 +1,2 @@
+The story mode fights have their text ids hardcoded in.
+Roguelike arcade fights have their text ids upon fight startup are generic depending on the area.
