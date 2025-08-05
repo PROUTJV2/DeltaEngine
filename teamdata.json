@@ -45,7 +45,7 @@
         "animation": {
             "idleframes": 5,
             "defendframes": 6,
-            "defendduration": 0.9
+            "defendduration": 0.3
         },
         "id": 3,
         "overlaycolor": 66.6

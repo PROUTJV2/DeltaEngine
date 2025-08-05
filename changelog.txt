@@ -1,11 +1,12 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.44.7
+v0.44.8
     Implemented HP bars for each character along with display of remaining HP.
     Added a special font to the HP text that looks close enough to the one from Deltarune.
     Resized HP bar length to be more accurate.
     Custom prompt to select which file, either teamdata or enemydata, you want to import without having to import both.
     Support for custom animation duration in teamdata.json.
     teamdata.json has recieved a tiny restructure for animations.
+    Changed HP bar background effect to be darker.
     Fixed a bug with background hp bar.
     Fixed a bug related to layering of the tweened bar overlay effect.
 v0.42.6
