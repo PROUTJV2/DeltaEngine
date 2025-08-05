@@ -1,5 +1,5 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.44.10
+v0.44.11
     Implemented HP bars for each character along with display of remaining HP.
     Added a special font to the HP text that looks close enough to the one from Deltarune.
     Resized HP bar length to be more accurate.
@@ -10,6 +10,7 @@ v0.44.10
     Fixed a bug with background hp bar. (x2)
     Fixed a bug related to layering of the tweened bar overlay effect.
     Removed exemple Ralsei duration to make it vanilla again.
+    Lots of small bug fixes related to graphics upon starting the engine but not starting a fight.
 v0.42.6
     The game now supports custom text for each incoming attack in "upcoming text" in enemydata.json>enemyname>attackdata>upcomingtext.
     (v0.41)Implemented custom support for newline character (newline character being %) in "upcomingtext".
