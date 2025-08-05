@@ -1,4 +1,6 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
+v0.45.1
+    Updated the way json text works and is fetched.
 v0.44.11
     Implemented HP bars for each character along with display of remaining HP.
     Added a special font to the HP text that looks close enough to the one from Deltarune.
