@@ -1,4 +1,8 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
+v0.47.2
+    Started making ACTing.
+    Made an engine for the fighting bar system.
+    Bunch of bug fixes.
 v0.45.1
     Updated the way json text works and is fetched.
 v0.44.11
