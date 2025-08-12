@@ -28,6 +28,15 @@
                 "repeat": 5
             }
         ],
+        "actdata": [
+            {
+                "name":"Check",
+                "class":"text",
+                "args":[
+                    "* the enemy is so%    tuff and placeholder"
+                ]
+            }
+        ],
         "id": 1
     }
 }
