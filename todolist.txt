@@ -2,10 +2,10 @@ SORTED BY ORDER OF PRIORITY (the higher the more important)
 
 Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies. 
 Implement ATTACK button.
-Implement ACTing.
 Implement SPAREing and MAGIC.
 Implement ITEM.
 Implement Overworld sprites, camera and movement.
 Implement TP reducing enemy's attack time.
 Implement musics.
 Implement support for attacks from multiple enemies.
+REMAKE ENTIRE ACTING ENGINE FOR CLEANER CODE.
