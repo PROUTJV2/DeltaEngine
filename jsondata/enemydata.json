@@ -30,9 +30,9 @@
         ],
         "actdata": [
             {
-                "name":"Check",
-                "class":"text",
-                "args":[
+                "name": "Check",
+                "class": "text",
+                "args": [
                     "* the enemy is so%    tuff and placeholder"
                 ]
             }
