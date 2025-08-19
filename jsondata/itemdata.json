@@ -1,0 +1,11 @@
+{
+    "hamburger":{
+        "name":"Hamburger",
+        "description":"makes you fat",
+        "class":"heal",
+        "args":[
+            100
+        ]
+    }
+    
+}
