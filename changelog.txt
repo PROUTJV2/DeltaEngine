@@ -1,4 +1,7 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
+v0.50.2
+    Reworked the ENTIRE character animation engine to be more versatile, easier to comprehend, easier to break running threads.
+    Fixed some bugs.
 v0.49.11
     Finished ACTing.
     Added waiting animation for Kris before input.
