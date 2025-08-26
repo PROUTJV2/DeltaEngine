@@ -1,11 +1,14 @@
 SORTED BY ORDER OF PRIORITY (the higher the more important)
 
-Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies. 
 Implement ATTACK button. (module has been made but not adapted to engine)
-Implement SPAREing and MAGIC. (1/2 done)
-Implement ITEM.
+Implement SPAREing and MAGIC.  
+Implement ACTing (3/4 done; need to rework the way check inputs work).
+Implement ITEM. (done)
+Implement a target arg in itemdata.json to make items that can heal everyone.
+Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies. 
 Implement Overworld sprites, camera and movement.
 Implement TP reducing enemy's attack time.
 Implement musics.
 Implement support for attacks from multiple enemies.
 REMAKE ENTIRE ACTING ENGINE FOR CLEANER CODE.
+Implement proper structured .md modding documentation in documentation>modding.
