@@ -23,6 +23,12 @@
                 "duration": 0.8,
                 "xoffset": 13,
                 "yoffset": 3
+            },
+            "item": {
+                "frames": 8,
+                "duration": 0.8,
+                "xoffset":-2,
+                "yoffset":3
             }
         },
         "id": 1,
@@ -43,6 +49,10 @@
             "defend": {
                 "frames": 5,
                 "duration": 0.3
+            },
+            "item":{
+                "frames":7,
+                "duration":0.3
             }
         },
         "id": 2,
@@ -63,6 +73,11 @@
             "defend": {
                 "frames": 6,
                 "duration": 0.3
+            },
+            "item": {
+                "frames": 8,
+                "duration": 0.3,
+                "xoffset":4
             }
         },
         "id": 3,

@@ -1,6 +1,10 @@
 Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
-v0.50.2
+v0.51.2
+    - Fixed a tiny animation bug.
+    - Added item animations.
+v0.50.3
     Reworked the ENTIRE character animation engine to be more versatile, easier to comprehend, easier to break running threads.
+    More animation reworks.
     Fixed some bugs.
 v0.49.11
     Finished ACTing.
