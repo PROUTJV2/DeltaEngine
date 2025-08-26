@@ -1,0 +1,8 @@
+This documentation is referring to the fightdatalist item slots.
+Slots 1 to 3 take up character HP.
+Slots 4 to 6 take up enemy HP.
+Slots 7 to 10 take up character decal and character x&y pos.
+Slots 11 to 13 take up current character state.
+Slots 14 to 17 take up last TP state for cancellation purposes.
+Slots 18 to 20 take up last action used for cancellation purposes.
+Slots 20 to 25 take up space for layered action data.

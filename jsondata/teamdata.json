@@ -26,7 +26,7 @@
             },
             "item": {
                 "frames": 8,
-                "duration": 0.8,
+                "duration": 0.5,
                 "xoffset":-2,
                 "yoffset":3
             }
@@ -52,7 +52,7 @@
             },
             "item":{
                 "frames":7,
-                "duration":0.3
+                "duration":0.5
             }
         },
         "id": 2,
@@ -76,7 +76,7 @@
             },
             "item": {
                 "frames": 8,
-                "duration": 0.3,
+                "duration": 0.5,
                 "xoffset":4
             }
         },

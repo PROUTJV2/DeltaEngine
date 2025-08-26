@@ -1,8 +1,8 @@
 SORTED BY ORDER OF PRIORITY (the higher the more important)
 
 Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies. 
-Implement ATTACK button.
-Implement SPAREing and MAGIC.
+Implement ATTACK button. (module has been made but not adapted to engine)
+Implement SPAREing and MAGIC. (1/2 done)
 Implement ITEM.
 Implement Overworld sprites, camera and movement.
 Implement TP reducing enemy's attack time.

@@ -1,4 +1,3 @@
-Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
 v0.51.3
     - Fixed a tiny animation bug.
     - Fixed a small oversight that skipped the first frame of each animation (except ones from the animationclock() routine idle).
