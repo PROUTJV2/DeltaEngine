@@ -1,15 +1,15 @@
 v0.52.5
-    - The item button is now ENTIERELY functional.
-    - Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.
-    - Implemented max HP.
-    - Optimized the engine a bit more.
-    - Fixed a small bug related to hp overlay layering.
+    The item button is now ENTIERELY functional.
+    Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.
+    Implemented max HP.
+    Optimized the engine a bit more.
+    Fixed a small bug related to hp overlay layering.
 v0.51.5
-    - Created a documentation folder regarding info about which information does the fightdatalist store for each item.
-    - The main turn routine now stores more data in fightdata.
-    - Fixed a tiny animation bug.
-    - Fixed a small oversight that skipped the first frame of each animation (except ones from the animationclock() routine idle).
-    - Added item animations.
+    Created a documentation folder regarding info about which information does the fightdatalist store for each item.
+    The main turn routine now stores more data in fightdata.
+    Fixed a tiny animation bug.
+    Fixed a small oversight that skipped the first frame of each animation (except ones from the animationclock() routine idle).
+    Added item animations.
 v0.50.3
     Reworked the ENTIRE character animation engine to be more versatile, easier to comprehend, easier to break running threads.
     More animation reworks.
