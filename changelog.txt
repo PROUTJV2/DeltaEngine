@@ -1,10 +1,12 @@
-v0.52.6
+v0.52.9
     The item button is now ENTIERELY functional.
     Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.
     Implemented a new item class; healparty, that heals the entire party.
+    Removed target selection for party items.
     Implemented max HP.
     Optimized the engine a bit more.
     Fixed a small bug related to hp overlay layering.
+    Fixed two item bugs.
 v0.51.5
     Created a documentation folder regarding info about which information does the fightdatalist store for each item.
     The main turn routine now stores more data in fightdata.
