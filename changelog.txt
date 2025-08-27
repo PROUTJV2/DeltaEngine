@@ -1,6 +1,7 @@
-v0.52.5
+v0.52.6
     The item button is now ENTIERELY functional.
     Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.
+    Implemented a new item class; healparty, that heals the entire party.
     Implemented max HP.
     Optimized the engine a bit more.
     Fixed a small bug related to hp overlay layering.
