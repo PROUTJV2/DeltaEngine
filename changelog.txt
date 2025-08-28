@@ -1,3 +1,6 @@
+v0.53.2
+    ACT engine now supports multiple acts.
+    Small bug fixes.
 v0.52.9
     The item button is now ENTIERELY functional.
     Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.

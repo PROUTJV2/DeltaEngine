@@ -27,8 +27,8 @@
             "item": {
                 "frames": 8,
                 "duration": 0.5,
-                "xoffset":-2,
-                "yoffset":3
+                "xoffset": -2,
+                "yoffset": 3
             }
         },
         "id": 1,
@@ -42,6 +42,16 @@
         "attackperlevel": 45,
         "basemagic": 12,
         "magicperlevel": 4,
+        "magicdata": [
+            {
+                "name": "Rude Buster",
+                "internalname": "rudebuster",
+                "class": "scalingdamage",
+                "args": [
+                    150
+                ]
+            }
+        ],
         "animation": {
             "idle": {
                 "frames": 4
@@ -50,9 +60,15 @@
                 "frames": 5,
                 "duration": 0.3
             },
-            "item":{
-                "frames":7,
-                "duration":0.5
+            "magic": {
+                "rudebuster": {
+                    "frames": 4,
+                    "duration": 0.4
+                }
+            },
+            "item": {
+                "frames": 7,
+                "duration": 0.5
             }
         },
         "id": 2,
@@ -77,7 +93,7 @@
             "item": {
                 "frames": 8,
                 "duration": 0.5,
-                "xoffset":4
+                "xoffset": 4
             }
         },
         "id": 3,
