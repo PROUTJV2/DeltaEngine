@@ -1,5 +1,6 @@
-v0.53.3
+v0.53.4
     ACT engine now supports multiple acts.
+    Optimized text engine by reducing the script's length by condensing some code into functions.
     Started making mercy&spare.
     Small bug fixes.
 v0.52.9
