@@ -4,7 +4,7 @@ Implement ATTACK button. (module has been made but not adapted to engine)
 Implement SPAREing and MAGIC.  
 Implement ACTing (3/4 done; need to rework the way check inputs work).
 Implement ITEM. (done)
-Implement a target arg in itemdata.json to make items that can heal everyone.
+Implement a target arg in itemdata.json to make items that can heal everyone. (done, using an entirely new class)
 Add enemies sprite, animations and support in the enemydata.json for maxframes of enemies. 
 Implement Overworld sprites, camera and movement.
 Implement TP reducing enemy's attack time.
