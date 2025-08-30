@@ -8,3 +8,4 @@ Slots 14 to 17 take up last TP state for cancellation purposes.
 Slots 18 to 20 take up last action used for cancellation purposes.
 Slots 20 to 25 take up space for layered action data.
 Slots 26 to 28 take up space for character max HP.
+Slots 29 to 31 take up mercy% data for enemies.
