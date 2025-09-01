@@ -10,14 +10,10 @@
                 "startx": 150,
                 "starty": 50,
                 "startdir": -90,
-                "costumes": [
-                    "laser"
-                ],
+                "costumes": ["laser"],
                 "damage": 3,
                 "velocity": 8,
-                "target": [
-                    "ralsei"
-                ],
+                "target": ["ralsei"],
                 "touchingidentifier": 2,
                 "xdecal": 0,
                 "ydecal": 0,
@@ -32,9 +28,7 @@
             {
                 "name": "Check",
                 "class": "text",
-                "args": [
-                    "* the enemy is so%    tuff and placeholder"
-                ]
+                "args": ["* the enemy is so%    tuff and placeholder"]
             }
         ],
         "id": 1

@@ -47,9 +47,7 @@
                 "name": "Rude Buster",
                 "internalname": "rudebuster",
                 "class": "scalingdamage",
-                "args": [
-                    150
-                ]
+                "args": [150]
             }
         ],
         "animation": {

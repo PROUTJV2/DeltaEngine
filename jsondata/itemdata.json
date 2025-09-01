@@ -3,16 +3,12 @@
         "name": "Hamburger",
         "description": "makes you fat",
         "class": "heal",
-        "args": [
-            100
-        ]
+        "args": [100]
     },
     "partyburger": {
         "name": "Party Burger",
         "description": "makes everyone fat",
         "class": "healparty",
-        "args": [
-            70
-        ]
+        "args": [70]
     }
 }
