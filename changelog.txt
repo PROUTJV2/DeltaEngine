@@ -1,7 +1,9 @@
-v0.53.4
+v0.53.6
     ACT engine now supports multiple acts.
     Optimized text engine by reducing the script's length by condensing some code into functions.
+    More optimization using switch and case.
     Started making mercy&spare.
+    Fixed ACT/ITEM list menu related issues.
     Small bug fixes.
 v0.52.9
     The item button is now ENTIERELY functional.
