@@ -1,3 +1,7 @@
+v0.54.3
+    Finished SPAREing.
+    Added a feature where you can't cancel sparing (for obvious reasons).
+    Small optimizations.
 v0.53.6
     ACT engine now supports multiple acts.
     Optimized text engine by reducing the script's length by condensing some code into functions.

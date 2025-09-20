@@ -24,6 +24,12 @@
                 "xoffset": 13,
                 "yoffset": 3
             },
+            "spare":{
+                "frames": 13,
+                "duration": 0.8,
+                "xoffset": 13,
+                "yoffset": 3
+            },
             "item": {
                 "frames": 8,
                 "duration": 0.5,
