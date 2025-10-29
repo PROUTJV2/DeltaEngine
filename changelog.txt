@@ -1,3 +1,10 @@
+v0.57.5
+    Rework of the (non looping) animation function to MASSIVELY OPTIMIZE the engine.
+    Replaced instances of ACT in code and JSONs with MAGIC for Kris to remove differenciation code.
+    You can now fully cancel/do an action without any delay, allowing for huge action button spam.
+    Refactor of the engine to switch to the "Array&Objects" extension in favor of the deprecated JSON one.
+    More small optimizations to make the code more readable/run faster.
+    Fixed a bug related to TP bar color after maximum cancellation.
 v0.54.3
     Finished SPAREing.
     Added a feature where you can't cancel sparing (for obvious reasons).
