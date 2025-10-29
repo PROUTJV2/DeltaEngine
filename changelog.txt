@@ -1,4 +1,71 @@
-Precise changelog created at the time v0.32.1 was finished, changelog info recorded regarding versions before v0.32.1 may be missing elements.
+v0.57.5
+    Rework of the (non looping) animation function to MASSIVELY OPTIMIZE the engine.
+    Replaced instances of ACT in code and JSONs with MAGIC for Kris to remove differenciation code.
+    You can now fully cancel/do an action without any delay, allowing for huge action button spam.
+    Refactor of the engine to switch to the "Array&Objects" extension in favor of the deprecated JSON one.
+    More small optimizations to make the code more readable/run faster.
+    Fixed a bug related to TP bar color after maximum cancellation.
+v0.54.3
+    Finished SPAREing.
+    Added a feature where you can't cancel sparing (for obvious reasons).
+    Small optimizations.
+v0.53.6
+    ACT engine now supports multiple acts.
+    Optimized text engine by reducing the script's length by condensing some code into functions.
+    More optimization using switch and case.
+    Started making mercy&spare.
+    Fixed ACT/ITEM list menu related issues.
+    Small bug fixes.
+v0.52.9
+    The item button is now ENTIERELY functional.
+    Implemented support for the engine to handle itemdata.json's data; can now fetch args, and class and heal the proper target chosen.
+    Implemented a new item class; healparty, that heals the entire party.
+    Removed target selection for party items.
+    Implemented max HP.
+    Optimized the engine a bit more.
+    Fixed a small bug related to hp overlay layering.
+    Fixed two item bugs.
+v0.51.5
+    Created a documentation folder regarding info about which information does the fightdatalist store for each item.
+    The main turn routine now stores more data in fightdata.
+    Fixed a tiny animation bug.
+    Fixed a small oversight that skipped the first frame of each animation (except ones from the animationclock() routine idle).
+    Added item animations.
+v0.50.3
+    Reworked the ENTIRE character animation engine to be more versatile, easier to comprehend, easier to break running threads.
+    More animation reworks.
+    Fixed some bugs.
+v0.49.11
+    Finished ACTing.
+    Added waiting animation for Kris before input.
+    Fixed an oversight creating an animation delay.
+    Optimized ACT Engine.
+    Started to implement character death.
+    Fixed a bug where cancelling after using ACT add some issues with the prior TP registered.
+    Patched further ACT menu related bugs.
+v0.48.2
+    More progress on ACTing.
+    Replaced raw enemydata by fetching from json name.
+v0.47.6
+    Started making ACTing.
+    Optimized lots of code bits and changed teamdata structure to make animation modding even easier.
+    Made an engine for the fighting bar system.
+    Fading out overlay optimized.
+    Bunch of bug fixes.
+v0.45.1
+    Updated the way json text works and is fetched.
+v0.44.11
+    Implemented HP bars for each character along with display of remaining HP.
+    Added a special font to the HP text that looks close enough to the one from Deltarune.
+    Resized HP bar length to be more accurate.
+    Custom prompt to select which file, either teamdata or enemydata, you want to import without having to import both.
+    Support for custom animation duration in teamdata.json.
+    teamdata.json has recieved a tiny restructure for animations.
+    Changed HP bar background effect to be darker.
+    Fixed a bug with background hp bar. (x2)
+    Fixed a bug related to layering of the tweened bar overlay effect.
+    Removed exemple Ralsei duration to make it vanilla again.
+    Lots of small bug fixes related to graphics upon starting the engine but not starting a fight.
 v0.42.6
     The game now supports custom text for each incoming attack in "upcoming text" in enemydata.json>enemyname>attackdata>upcomingtext.
     (v0.41)Implemented custom support for newline character (newline character being %) in "upcomingtext".

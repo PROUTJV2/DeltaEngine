@@ -1,0 +1,106 @@
+{
+    "soul": {
+        "grazearea": 90
+    },
+    "kris": {
+        "name": "Kris",
+        "basehp": 100,
+        "hpperlevel": 30,
+        "baseattack": 70,
+        "attackperlevel": 30,
+        "basemagic": 10,
+        "magicperlevel": 0,
+        "animation": {
+            "idle": {
+                "frames": 6
+            },
+            "defend": {
+                "frames": 6,
+                "duration": 0.3
+            },
+            "magic": {
+                "frames": 13,
+                "duration": 0.8,
+                "xoffset": 13,
+                "yoffset": 3
+            },
+            "spare":{
+                "frames": 13,
+                "duration": 0.8,
+                "xoffset": 13,
+                "yoffset": 3
+            },
+            "item": {
+                "frames": 8,
+                "duration": 0.5,
+                "xoffset": -2,
+                "yoffset": 3
+            }
+        },
+        "id": 1,
+        "overlaycolor": 100
+    },
+    "susie": {
+        "name": "Susie",
+        "basehp": 110,
+        "hpperlevel": 35,
+        "baseattack": 90,
+        "attackperlevel": 45,
+        "basemagic": 12,
+        "magicperlevel": 4,
+        "magicdata": [
+            {
+                "name": "Rude Buster",
+                "internalname": "rudebuster",
+                "class": "scalingdamage",
+                "args": [150]
+            }
+        ],
+        "animation": {
+            "idle": {
+                "frames": 4
+            },
+            "defend": {
+                "frames": 5,
+                "duration": 0.3
+            },
+            "magic": {
+                "rudebuster": {
+                    "frames": 4,
+                    "duration": 0.4
+                }
+            },
+            "item": {
+                "frames": 7,
+                "duration": 0.5
+            }
+        },
+        "id": 2,
+        "overlaycolor": 166.6
+    },
+    "ralsei": {
+        "name": "Ralsei",
+        "basehp": 90,
+        "hpperlevel": 25,
+        "baseattack": 60,
+        "attackperlevel": 20,
+        "basemagic": 15,
+        "magicperlevel": 6,
+        "animation": {
+            "idle": {
+                "frames": 5
+            },
+            "defend": {
+                "frames": 6,
+                "duration": 0.3
+            },
+            "item": {
+                "frames": 8,
+                "duration": 0.5,
+                "xoffset": 4
+            }
+        },
+        "id": 3,
+        "overlaycolor": 66.6
+    }
+}
