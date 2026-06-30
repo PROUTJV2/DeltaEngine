@@ -1,3 +1,12 @@
+
+
+
+----- OLD ENGINE ------
+
+v0.58.10
+    Implemented victory animation.
+    UI behaviour has been made regarding victory.
+    LOTS of bug fixes.
 v0.57.5
     Rework of the (non looping) animation function to MASSIVELY OPTIMIZE the engine.
     Replaced instances of ACT in code and JSONs with MAGIC for Kris to remove differenciation code.

@@ -1,5 +1,14 @@
 SORTED BY ORDER OF PRIORITY (the higher the more important)
 
+Finish UI related scene elements.
+
+
+
+
+
+---- OLD ENGINE ----
+
+Fix ACT input not showing up.
 Implement ATTACK button. (module has been made but not adapted to engine)
 Implement SPAREing and MAGIC.  
 Implement ACTing (3/4 done; need to rework the way check inputs work).
@@ -10,5 +19,5 @@ Implement musics.
 Implement support for attacks from multiple enemies.
 REMAKE ENTIRE ACTING ENGINE FOR CLEANER CODE.
 REFACTOR ENGINE TO GET RID OF OUTDATED JSON EXTENSION IN FAVOR OF ARRAY&OBJECT EXTENSION
-RECHECK/REWORK target arg
+RECHECK/REWORK target arg.
 Implement proper structured .md modding documentation in documentation>modding.
