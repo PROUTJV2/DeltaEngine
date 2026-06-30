@@ -1,0 +1,1 @@
+global.flag[n] is the n-th flag
