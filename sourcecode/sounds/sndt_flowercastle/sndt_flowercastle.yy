@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"sndt_flowercastle",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":1,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":270.22223,
+  "exportDir":"",
+  "name":"sndt_flowercastle",
+  "parent":{
+    "name":"Delta Engine",
+    "path":"Delta Engine.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sndt_flowercastle.ogg",
+  "volume":1.0,
+}

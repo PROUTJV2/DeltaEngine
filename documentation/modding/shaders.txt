@@ -1,0 +1,27 @@
+vertex and pixel (aka fragment) shaders
+execution order: vertex -> pixel
+vertex shaders get executed for every vertex
+pixel shaders get executed for every pixel
+
+shaders use vectors to store data (vectors viewed only as arrays of numbers here)
+3 data types:
+	- attribute: vertex properties (vertex position, color, etc)
+	- varying: values you can write in the vertex shader that are passed to the pixel shader
+	- uniform: constants you can write but not at runtime
+declare vector with vecX myVector = vecX (values) where X is the dimension of the vector (i.e. number of stuff in it)
+exemple:
+	vec2 firstVec = vec2(2.0, 1.0)
+
+vectors have float values by defaut but there also exists
+	- boolean vectors with true/false values, written as boolVec
+	- integer vectors with integer values, written as intVec
+
+you can access vectors values with
+	myVector[1] to access the first component for exemple 
+	or myVector.x to access the first component
+this second way of accessing is called swizzling
+the first 4 component are named x, y, z and w respectively and this is called a swizzle mask
+there are two more sets of masks you can use: rgba (used for colors), or stpq (used for texture coordinates)
+
+the code already present in the shaders just defines some vectors and then puts a basic passthrough function in that main() function
+
